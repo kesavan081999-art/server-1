@@ -4,7 +4,7 @@ const User = require('../../models/schemas/userSchema');
 const { v4: uuidv4 } = require('uuid');
 
 
-const ATS_API_URL = 'https://ats-analysis.onrender.com/api/v1';
+const ATS_API_URL = 'https://python-1-m2da.onrender.com/api/v1';
 // const ATS_API_URL = 'http://localhost:8000/api/v1';
 
 // In-memory storage for job search tasks
